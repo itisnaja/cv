@@ -1,0 +1,158 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #f1f2ff;}
+
+    .wrapper {
+        display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px;
+    }
+aside {
+
+width: 370px;
+
+
+background: #1E2939;
+}
+.cv-photo {
+margin: 25px 0 0 0;}
+
+.header-secondary{
+color: white;
+    }
+    .contact-info {
+color: #b4b4b4;
+font-size: 14px;
+line-height: 24px;
+    }
+.bold{ font-weight: 700;}
+.list-secondary{
+    color: #FB6D3A;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+.list-secondary-item{
+    color: #b4b4b4;
+    font-size: 14px;
+line-height: 24px;
+}
+.contacts-block{
+    margin-top: 51px;
+ margin-left: 40px;}
+ .techskills-block{
+    margin-top: 47px;
+    margin-left: 40px;
+ }
+ .softskills-block{
+    margin-top: 44px;
+    margin-left: 40px;
+ }
+ .list-softskills{
+    color: #FB6D3A;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding: 0;
+    list-style-position: inside;
+ }
+ .list-softskills-item{
+    color: #b4b4b4;
+    font-size: 14px;
+line-height: 24px;
+ }
+ main{
+   padding: 102px 88px 102px 88px;
+ }
+ .main-discription{
+    width: 400px;
+ }
+ .job-title{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+ }
+ .name{
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+ }
+ h1{
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+ }
+ .job-discription{
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #4b4b4b;
+margin-bottom: 40px;
+ }
+.projects{
+    width: 485px;
+    margin-bottom: 51px;
+}
+.list-primary{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list-primary-item{
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+text-decoration: none;
+}
+.primary-header{
+    font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+}
+.job-position{
+    font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+}
+.job-date{
+    font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8
+}
+.work-experience-discription{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+padding-left: 0;
+list-style-position: inside;
+color: #595959;
+}
+.orange-color{
+    color: #FB6D3A;
+}
+.education{
+    font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+padding-top: 43px;
+}
+.national-university{
+    font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+margin-top: 12px;
+}
+.management{
+    margin-top: 11px;
+}
